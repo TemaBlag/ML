@@ -12,6 +12,7 @@ Welcome to my collection of Machine Learning (ML) notebooks! 📚🚀 This repos
 
 ### 2. [K-Nearest Neighbors (KNN)](https://github.com/TemaBlag/ML/tree/main/knn) 🔍
    - Understanding the KNN algorithm
+   - Practical implementations
 
 ### 3. [Gradient Descent](https://github.com/TemaBlag/ML/tree/main/descent) 📉
    - Stochastic Gradient Descent (SGD)
